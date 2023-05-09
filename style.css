@@ -40,6 +40,14 @@ body {
   font-size: 12px;
 }
 
+.img {
+  opacity: 0.5;
+}
+
+.img:hover {
+  opacity: 1;
+}
+
 .btn {
   padding: 8px;
   background-color: #4285f4;
